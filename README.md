@@ -65,6 +65,9 @@
 
 </div>
 
+<!-- Dark Section Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=2" width="100%"/>
+
 <br/>
 
 ## 🌟 Overview
@@ -100,10 +103,12 @@
 </tr>
 </table>
 
+<!-- Dark Section Divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:25D366&height=3" width="80%"/>
+</div>
 
-
-
-
+<br/>
 
 ## 🖥️ Interface Preview
 
@@ -113,14 +118,25 @@
 
 <br/>
 
-<!-- Responsive Image Container -->
-<img src="images/whatsapp_2.png" alt="UI Preview" style="width: 90%; max-width: 900px; min-width: 280px; height: auto; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+<!-- Dark Container for UI Preview -->
+<table>
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 20px; border-radius: 15px;">
+<img src="images/whatsapp_2.png" alt="UI Preview" style="width: 90%; max-width: 900px; min-width: 280px; height: auto; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.6);"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
+<!-- Dark Section Divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:25D366,100:128C7E&height=3" width="60%"/>
+</div>
+
+<br/>
 
 ## 🔥 Key Features
 
